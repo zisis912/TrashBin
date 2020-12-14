@@ -26,6 +26,10 @@
   --version: "Frosted Glass 2.0.7";
 }
 
+.channels-wrap {
+            width:1000px !important;
+ }
+
 .theme-dark {
   --header-primary: #fff;
   --header-secondary: #bbb;
